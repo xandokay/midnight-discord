@@ -32,7 +32,7 @@
 	--text-2: hsl(211, 85%, 92%); /* headings and important text */
 	--text-3: hsl(211, 85%, 92%); /* normal text */
 	--text-4: hsl(211, 85%, 92%); /* icon buttons and channels */
-	--text-5: hsl(219, 7%, 41%); /* muted channels/chats and timestamps */
+	--text-5: hsl(211, 85%, 92%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(220, 15%, 20%); /* dark buttons when clicked */
