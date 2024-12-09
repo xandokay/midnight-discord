@@ -789,7 +789,7 @@ button.button_dd4f85 /* small buttons */,
 }
 /* custom dm button background instead of icon */
  .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/amaryllis.png');
+	background: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spraybg.png');
 	background-color: transparent !important;
 	background-size: cover;
 } 
