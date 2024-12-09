@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: none; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/amaryllis.png'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spraybg.png'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
