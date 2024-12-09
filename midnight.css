@@ -64,7 +64,7 @@
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
-	--moon-icon: block; /* moon icon */
+	--moon-icon: none; /* moon icon */
 	--moon-icon-url: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/amaryllis.png'); /* custom icon url */
 	--moon-icon-size: auto;
 
@@ -788,11 +788,11 @@ button.button_dd4f85 /* small buttons */,
 	border-radius: 50%;
 }
 /* custom dm button background instead of icon */
-/* .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+ .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
+	background: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/amaryllis.png');
 	background-color: transparent !important;
 	background-size: cover;
-} */
+} 
 
 /* vencord spotify player support */
 #vc-spotify-player {
