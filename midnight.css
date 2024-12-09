@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: none; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spraybg.png'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spray.png'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
@@ -789,7 +789,7 @@ button.button_dd4f85 /* small buttons */,
 }
 /* custom dm button background instead of icon */
  .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spraybg.png');
+	background: url('https://raw.githubusercontent.com/xandokay/midnight-discord/refs/heads/master/assets/amaryllis/mpb_spray.png');
 	background-color: transparent !important;
 	background-size: cover;
 } 
