@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://d1mrnwe9chdcuv.cloudfront.net/w5tdwh%2Fpreview%2F62980913%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1733719997&Signature=WIIvPIy~NSJorqq~7n~rI9Iwc9QQD1WHGKvjvqqhlfkoXpa-XIwPCqHMCGCez6FV8l0w6WvAHwtlxKNDbVkDhO66LfJf~5FOjPdBcJaJ~OKApEp-1ZUscuUFIHevQ9R2kX7RpH~DvB8MpJr0-Gh2RsSfx1l6iwFP6ST~jTCEyOwazjUTlKrNIyBsDlHfoeHlqNe8u0DywEAwgi690OZvOnnJL2VvyAcKi7YSJk9jMJAapoaX4RfDbndJr3o-FoMNXdHlumXResvJLedmGDspeUqqLtYAgdccgXSUDgxaRm0vtjzD9QDgPRKjM1ixkWcpReX7IGUi4MDomw0Kgz18oA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ'); /* custom icon url */
+	--moon-icon-url: url('https://pouch.jumpshare.com/preview/9MSVxVeE951ixL3eIpo-SswNfCCiHKWAA-QtQU4qyxWiuMwfKjoNZolTH2pzDyMoLGCVWcdrnHdgK9PlBMr-J2cziRh1tSO63ezN1Xl214g'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
