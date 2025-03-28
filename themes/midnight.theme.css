@@ -78,12 +78,12 @@ body {
     --text-2: hsl(234, 10%, 81%); /* headings and important text */
     --text-3: hsl(234, 10%, 81%); /* normal text */
     --text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
-    --text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
+    --text-5: hsl(220, 10%, 50%); /* muted channels/chats and timestamps */
 
     /* background and dark colors */
     --bg-1: hsla(220, 15%, 20%, 1); /* dark buttons when clicked */
     --bg-2: hsla(220, 15%, 16%, 1); /* dark buttons */
-    --bg-3: hsla(220, 0%, 20%, 1); /* spacing, secondary elements */
+    --bg-3: hsla(220, 0%, 5%, 1); /* spacing, secondary elements */
     --bg-4: hsla(220, 0%, 0%, 1); /* main background color */
     --hover: hsla(221, 19%, 40%, 0.1); /* channels and buttons when hovered */
     --active: hsla(220, 19%, 40%, 0.2); /* channels and buttons when clicked or selected */
